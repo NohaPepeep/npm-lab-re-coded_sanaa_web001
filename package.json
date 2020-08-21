@@ -18,5 +18,6 @@
   "homepage": "https://github.com/NohaPepeep/npm-lab-re-coded_sanaa_web001#readme",
   "dependencies": {
     "moment": "^2.27.0"
-  }
+  },
+  "devDependencies": {}
 }
